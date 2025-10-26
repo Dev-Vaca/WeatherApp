@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Julio César Vaca García on 25/10/25.
+  
+*/
+
+"search-query-key" = "都市を検索...";
+"title-app-key" = "天気検索";
+"example-text-key" = "都市名を入力して天気情報を取得";
+"loading-key" = "天気情報を読み込み中...";
+"title-wind-key" = "風速";
+"title-sensitive-key" = "感度";
+"feels-like-key" = "体感温度:";
+"solar-lunar-info-key" = "太陽と月の情報";
+"sunrise-key" = "日の出";
+"sunset-key" = "日の入り";
+"moonrise-key" = "月の出";
+"moonset-key" = "月の入り";
+"moon-phase-key" = "月の位相";
+"day-key" = "日";
+"night-key" = "夜";
+"visible-key" = "可視";
+"hidden-key" = "非表示";
+"forecast-7-days-key" = "7日間の天気予報";
+"error-loading-key" = "情報の読み込みに失敗しました。";

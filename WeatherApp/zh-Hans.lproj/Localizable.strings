@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Julio César Vaca García on 25/10/25.
+  
+*/
+
+"search-query-key" = "搜索城市...";
+"title-app-key" = "天气查询";
+"example-text-key" = "输入城市获取天气信息";
+"loading-key" = "加载天气中...";
+"title-wind-key" = "风速";
+"title-sensitive-key" = "敏感";
+"feels-like-key" = "体感温度:";
+"solar-lunar-info-key" = "太阳和月亮信息";
+"sunrise-key" = "日出";
+"sunset-key" = "日落";
+"moonrise-key" = "月出";
+"moonset-key" = "月落";
+"moon-phase-key" = "月相";
+"day-key" = "白天";
+"night-key" = "夜晚";
+"visible-key" = "可见";
+"hidden-key" = "隐藏";
+"forecast-7-days-key" = "7天天气预报";
+"error-loading-key" = "无法加载信息。";

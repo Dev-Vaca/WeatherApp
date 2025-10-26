@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Julio César Vaca García on 25/10/25.
+  
+*/
+
+"search-query-key" = "Rechercher une ville...";
+"title-app-key" = "Trouver la météo";
+"example-text-key" = "Entrez une ville pour obtenir la météo";
+"loading-key" = "Chargement de la météo...";
+"title-wind-key" = "Vent";
+"title-sensitive-key" = "Sensible";
+"feels-like-key" = "Ressenti:";
+"solar-lunar-info-key" = "Informations solaires et lunaires";
+"sunrise-key" = "Lever du soleil";
+"sunset-key" = "Coucher du soleil";
+"moonrise-key" = "Lever de la lune";
+"moonset-key" = "Coucher de la lune";
+"moon-phase-key" = "Phase lunaire";
+"day-key" = "Jour";
+"night-key" = "Nuit";
+"visible-key" = "Visible";
+"hidden-key" = "Caché";
+"forecast-7-days-key" = "Prévisions sur 7 jours";
+"error-loading-key" = "Impossible de charger les informations.";

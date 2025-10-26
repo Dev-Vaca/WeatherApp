@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Julio César Vaca García on 25/10/25.
+  
+*/
+
+"search-query-key" = "Search City...";
+"title-app-key" = "Weather Finder";
+"example-text-key" = "Enter a city to get the weather";
+"loading-key" = "Loading weather...";
+"title-wind-key" = "Wind";
+"title-sensitive-key" = "Sensitive";
+"feels-like-key" = "Feels like:";
+"solar-lunar-info-key" = "Solar and Lunar Information";
+"sunrise-key" = "Sunrise";
+"sunset-key" = "Sunset";
+"moonrise-key" = "Moonrise";
+"moonset-key" = "Moonset";
+"moon-phase-key" = "Moon Phase";
+"day-key" = "Day";
+"night-key" = "Night";
+"visible-key" = "Visible";
+"hidden-key" = "Hidden";
+"forecast-7-days-key" = "7-Day Forecast";
+"error-loading-key" = "Could not load the information.";
